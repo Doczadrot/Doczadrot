@@ -9,7 +9,7 @@
 
 ## 🛠 Мои навыки
 - **Языки:** Python, JavaScript (начальный), HTML, CSS
-- **Библиотеки/Фреймворки (Python):** PyTorch, Transformers, spaCy, pandas, FastAPI
+- **Библиотеки/Фреймворки (Python):** PyTorch, Transformers, spaCy, pandas
 - **Базы данных:** PostgreSQL, SQLite
 - **Технологии/Инструменты:** REST API, Docker, Git, LLM (Large Language Models), RAG-системы, Fine-tuning LLM, MLOps (изучаю), ООП, Pytest, Telegram API
 
